@@ -1,0 +1,6 @@
+{
+  "name": "INVOICE GENERATOR",
+  "description": "A React-based invoice and quotation generator with PDF export, Google Drive integration, and PWA support. Easily customizable for your business needs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
